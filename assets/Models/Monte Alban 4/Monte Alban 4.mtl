@@ -1,0 +1,697 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Heather_Shirt
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.309804 0.286275
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_PantShadow
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.309804 0.466667
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Band
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.513725 0.470588
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Stripe1
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.439216 0.341176
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Stripe2
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.317647 0.447059
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_ShirtShadow
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.176471 0.133333
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Hair
+Ka 0.000000 0.000000 0.000000
+Kd 0.623529 0.450980 0.172549
+Ks 0.330000 0.330000 0.330000
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.717647 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Soles
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Jeans
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.458824 0.576471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Hat
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.580392 0.466667
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Cuffs
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.494118 0.537255
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Shoes
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.278431 0.262745
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Brim
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.266667 0.160784
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Hair2
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.454902 0.172549
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Skin
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.607843 0.474510
+Ks 0.330000 0.330000 0.330000
+
+newmtl Lily_Blonde
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.650980 0.427451
+Ks 0.330000 0.330000 0.330000
+
+newmtl Lily_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.968627 0.772549
+Ks 0.330000 0.330000 0.330000
+
+newmtl Lily_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.164706 0.149020
+Ks 0.330000 0.330000 0.330000
+
+newmtl Heather_Brim1
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.196078 0.121569
+Ks 0.330000 0.330000 0.330000
+
+newmtl Maya_dancer_02
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.462745 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_dancer_02.png
+
+newmtl Maya_figure_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.462745 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_figure_01.png
+
+newmtl Maya_dancer_03
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.513725 0.494118
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_dancer_03.png
+
+newmtl Untitled_231
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.721569 0.709804
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Untitled_231.png
+
+newmtl PlasterDirty0073_thumbhuge
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.752941 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/PlasterDirty0073_thumbhuge.jpg
+
+newmtl trim_57846_copan_tmp22
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.490196 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/trim_57846_copan_tmp22.jpg
+
+newmtl _Beige_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.596078 0.454902
+Ks 0.330000 0.330000 0.330000
+
+newmtl Labna_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.596078 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Labna_4.jpg
+
+newmtl Map_Mnt_Alban
+Ka 0.000000 0.000000 0.000000
+Kd 0.811765 0.729412 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Map_Mnt_Alban.jpg
+
+newmtl wall___chichen_itza__1
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.360784 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/wall___chichen_itza__1.jpg
+
+newmtl grunge_leaking_0013_01_preview1
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1.jpg
+
+newmtl Stairs_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.717647 0.615686 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Stairs_1.jpg
+
+newmtl Sayil___stairs
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.458824 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Sayil___stairs.jpg
+
+newmtl Trim___Temple
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.364706 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Trim___Temple.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color__011
+Ka 0.000000 0.000000 0.000000
+Kd 0.682353 0.235294 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Color__011.jpg
+
+newmtl ZAPOTEC_CARVINGS_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.266667 0.196078
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/ZAPOTEC_CARVINGS_01.jpg
+
+newmtl White
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Mitla___wall_elevation_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.470588 0.400000
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Mitla___wall_elevation_3.jpg
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.882353 0.784314
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_A16
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl grunge_leaking_0013_01_preview1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_1_.jpg
+
+newmtl Color__4
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.286275 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Color__4.jpg
+
+newmtl Wall_Plain_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.698039 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Wall_Plain_2.jpg
+
+newmtl Sculpt_02_spirit_serpent
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.635294 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Sculpt_02_spirit_serpent.jpg
+
+newmtl StoneWork___1
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.333333 0.223529
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/StoneWork___1.jpg
+
+newmtl Lisanne_Shirt_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.282353 0.368627
+Ks 0.330000 0.330000 0.330000
+
+newmtl Trim___Zapotec
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.529412 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Trim___Zapotec.jpg
+
+newmtl Plaster_painted_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.462745 0.678431
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Plaster_painted_Blue.jpg
+
+newmtl Trim__feathered_Serpent__full
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.305882 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Trim__feathered_Serpent__full.jpg
+
+newmtl Sayil_Great_Palace_wall_Grayscale
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.631373 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Sayil_Great_Palace_wall_Grayscale.jpg
+
+newmtl Screen_Shot_2016_12_14_at_6_48_34_AM
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.411765 0.258824
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Screen_Shot_2016_12_14_at_6_48_34_AM.png
+
+newmtl cb733a0d566e1d46316eab096f4c659e
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.454902 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/cb733a0d566e1d46316eab096f4c659e.jpg
+
+newmtl _12
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.788235 0.631373
+Ks 0.330000 0.330000 0.330000
+
+newmtl TT__stones_
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.494118 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/TT__stones_.jpg
+
+newmtl _Burnt_Umber_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.011765 0.007843
+Ks 0.330000 0.330000 0.330000
+
+newmtl Sayil___stairs1
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.458824 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Sayil___stairs1.jpg
+
+newmtl Stonework___El_Tajin_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.764706 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Stonework___El_Tajin_1.jpg
+
+newmtl Trim_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.505882 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Trim_8.jpg
+
+newmtl grunge_leaking_0023_01_crop
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.498039 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0023_01_crop.jpg
+
+newmtl WP_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.478431 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/WP_18.jpg
+
+newmtl jean_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.184314 0.258824
+Ks 0.330000 0.330000 0.330000
+
+newmtl PILLAR___Toltec
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.454902 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/PILLAR___Toltec.jpg
+
+newmtl PILLAR___Toltec1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.454902 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/PILLAR___Toltec1_.jpg
+
+newmtl grunge_leaking_0013_01_preview1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_2_.jpg
+
+newmtl grunge_leaking_0013_01_preview1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_3_.jpg
+
+newmtl ZAPOTEC_TRIM__02
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.392157 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/ZAPOTEC_TRIM__02.jpg
+
+newmtl grunge_leaking_0013_01_preview1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_4_.jpg
+
+newmtl grunge_leaking_0013_01_preview1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_5_.jpg
+
+newmtl grunge_leaking_0013_01_preview1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_6_.jpg
+
+newmtl grunge_leaking_0013_01_preview1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_7_.jpg
+
+newmtl Estado_de_Mexico__San_Juan_Teotihuacan__Teotihuacan_Archeological_Zone__Museum__Mural___Photo_by_Estado_de_Mexico
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.223529 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Estado_de_Mexico__San_Juan_Teotihuacan__Teotihuacan_Archeological_Zone__Museum__Mural___Photo_by_Estado_de_Mexico.jpg
+
+newmtl _26
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.584314 0.454902
+Ks 0.330000 0.330000 0.330000
+
+newmtl Carpet_Pattern_Squares_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.505882 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Carpet_Pattern_Squares_Multi.jpg
+
+newmtl Maya_priest_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.803922 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_priest_3.png
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color__2
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.286275 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Color__2.jpg
+
+newmtl Zapotec_carving
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.517647 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Zapotec_carving.jpg
+
+newmtl Maya_native_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.760784 0.690196 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_native_14.png
+
+newmtl Sculpt___Maya_Presentation_of_Captives_Kimbell
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.447059 0.360784
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Sculpt___Maya_Presentation_of_Captives_Kimbell.jpg
+
+newmtl grunge_leaking_0013_01_preview1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_8_.jpg
+
+newmtl Ashlar_block_wall
+Ka 0.000000 0.000000 0.000000
+Kd 0.937255 0.854902 0.713725
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Ashlar_block_wall.jpg
+
+newmtl Native___1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+map_Kd Monte Alban 4/Native___1.png
+
+newmtl Elevation___Chacmultum_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.486275 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Elevation___Chacmultum_2.jpg
+
+newmtl Trim_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.419608 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Trim_6.jpg
+
+newmtl M_0532_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.474510 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/M_0532_1_.jpg
+
+newmtl Door_trim___Teotihuacan
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.454902 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Door_trim___Teotihuacan.jpg
+
+newmtl Sayil_Great_Palace_wall
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.643137 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Sayil_Great_Palace_wall.jpg
+
+newmtl PILLAR___Toltec2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.454902 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/PILLAR___Toltec2_.jpg
+
+newmtl StoneWork___2
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.333333 0.219608
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/StoneWork___2.jpg
+
+newmtl Maya_Hut_roof
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.486275 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_Hut_roof.jpg
+
+newmtl Ceiling___inside_0028
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.454902 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Ceiling___inside_0028.jpg
+
+newmtl stone_wall_map_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.450980 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/stone_wall_map_2.jpg
+
+newmtl Maya_group
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.505882 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_group.jpg
+
+newmtl wall___chichen_itza__2
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.360784 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/wall___chichen_itza__2.jpg
+
+newmtl grunge_leaking_0013_01_preview1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.517647 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0013_01_preview1_9_.jpg
+
+newmtl Trim___Zapotec1
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.529412 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Trim___Zapotec1.jpg
+
+newmtl Temple_M
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.882353 0.882353
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Temple_M.jpg
+
+newmtl Picture_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.364706 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Picture_7.png
+
+newmtl Wall_Stucco___red
+Ka 0.000000 0.000000 0.000000
+Kd 0.682353 0.329412 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Wall_Stucco___red.jpg
+
+newmtl Labna_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.623529 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Labna_2.jpg
+
+newmtl Wall___Stucco
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.768627 0.749020
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Wall___Stucco.jpg
+
+newmtl Cladding_Siding_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.494118 0.372549
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Cladding_Siding_Tan.jpg
+
+newmtl Patio_elevation_
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.329412 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Patio_elevation_.jpg
+
+newmtl coping_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.627451 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/coping_2.jpg
+
+newmtl plaster_bare_brick_base_0070_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.678431 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/plaster_bare_brick_base_0070_01.jpg
+
+newmtl Upholstery_Striped_Multi_Colored
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.470588 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Upholstery_Striped_Multi_Colored.jpg
+
+newmtl Rug_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.086275 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Rug_3.png
+
+newmtl plaster_new_0001_01_preview
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.537255 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/plaster_new_0001_01_preview.jpg
+
+newmtl basket_woven
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.494118 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/basket_woven.jpg
+
+newmtl teo9
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.364706 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/teo9.jpg
+
+newmtl PlasterDirty0073_thumbhuge1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.752941 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/PlasterDirty0073_thumbhuge1_.jpg
+
+newmtl Rug_3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.086275 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Rug_3_1_.png
+
+newmtl _6
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.400000 0.200000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Maya_Hut_roof1
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.396078 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_Hut_roof1.jpg
+
+newmtl grunge_leaking_0026_01_preview1
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.501961 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/grunge_leaking_0026_01_preview1.jpg
+
+newmtl Stone_Coursed_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.627451 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Stone_Coursed_Rough.jpg
+
+newmtl Maya_Hut_front
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.396078 0.286275
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Maya_Hut_front.jpg
+
+newmtl ConcreteStucco0149
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.800000 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/ConcreteStucco0149.jpg
+
+newmtl Photo_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.407843 0.360784
+Ks 0.330000 0.330000 0.330000
+map_Kd Monte Alban 4/Photo_Texture.jpg
+
